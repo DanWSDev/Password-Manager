@@ -1,0 +1,2 @@
+C:\Users\Dangerous\source\repos\WPM\obj\Debug\netcoreapp3.1\WPM.csproj.AssemblyReference.cache
+C:\Users\Dangerous\source\repos\WPM\obj\Debug\netcoreapp3.1\WPM.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tvf7q/Q8QOK1nA/4t2pnHg05ZE8p55DDlyV/ZHk2FOjEfCBtiTHJpFSdH7BCFxk2dB9975KgeeHH9NSaO+p8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dangerous\\source\\repos\\WPM\\WPM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dangerous\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
